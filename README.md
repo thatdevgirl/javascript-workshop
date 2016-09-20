@@ -33,7 +33,6 @@ original: https://github.com/generalassembly-studio/javascript-101-cwe-materials
 | 5 min   | [Demo](#demo1)  | Pseudo Code|
 | 15 min  | [Independent Practice](#ind-practice2)   | Thermostat |
 | 10 min  | [Demo](#demo2)  | Variables, Data Types & Arithmetic |
-
 | 10 min  | [Guided/Independent Practice](#guided-practice2)  | Variables |
 | 10 min  | [Introduction](#intro3)  | jQuery, a JavaScript Library  |
 | 15 min  | [Guided Practice/Independent Practice](#guided-practice3) | jQuery Code Along Part 1 |
