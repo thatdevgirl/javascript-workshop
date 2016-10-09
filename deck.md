@@ -6,8 +6,6 @@
 
 ## Greetings!
 
-Did you know that there are over one billion websites that are live today?
-
 In this workshop, we'll be learning the building blocks that will allow you to get creative and bring your ideas to life.
 
 Note:
@@ -33,15 +31,6 @@ Note:
 10 min
 
 The process of going from an idea to a fully developed and launched site is pretty cool! However, there are many components to building a website that allows for the type of functionality most clients seek today such as in an e-commerce website. A "full stack" developer is someone who can work on both the back-end and front-end of a website. But what exactly do those terms mean? Let's take a closer look to help us understand the web production workflow.
-
----
-
-## Web Production Workflow
-
-- UX (or User Experience)
-- Design
-- Front End
-- Back End
 
 ---
 
@@ -161,14 +150,12 @@ Have students open Sublime and type their pseudocode in the text editor.  Then h
 
 ---
 
-## Variables, Data Types and Arithmetic
+## Code time!
 
 Now that we've learned a bit about pseudocode, let's begin to code!
 
 Note:
 10 min
-
-The first step to learning the fundamentals of JS involves learning to tell our program to remember (store) values. This helps us use them later on!
 
 ---
 
@@ -177,6 +164,9 @@ The first step to learning the fundamentals of JS involves learning to tell our 
 The 'container' we use to store a value is called a **variable**. Remember these properties of a variable:
 - A variable has a **name** and a **value**.
 - The value can change.
+
+Note:
+The first step to learning the fundamentals of JS involves learning to tell our program to remember (store) values. This helps us use them later on!
 
 ---
 
